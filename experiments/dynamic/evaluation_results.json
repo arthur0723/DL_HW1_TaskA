@@ -1,0 +1,10 @@
+{
+    "model_type": "dynamic",
+    "channel_mode": "rgb",
+    "train_accuracy": 0.36818002368732733,
+    "val_accuracy": 0.43555555555555553,
+    "test_accuracy": 0.45111111111111113,
+    "params": 10445362,
+    "flops": "239.663G",
+    "inference_time": 0.1270415425300598
+}

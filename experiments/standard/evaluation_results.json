@@ -1,0 +1,10 @@
+{
+    "model_type": "standard",
+    "channel_mode": "rgb",
+    "train_accuracy": 0.39335175681010665,
+    "val_accuracy": 0.4444444444444444,
+    "test_accuracy": 0.5,
+    "params": 10406962,
+    "flops": "126.010G",
+    "inference_time": 0.14050724506378173
+}
