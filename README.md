@@ -15,17 +15,12 @@ Task_A/
 ├── utils/
 │   ├── dataset.py           # 資料集加載功能(包含通道變換)
 │   ├── train.py             # 訓練函數
-│   ├── evaluate.py          # 評估函數
-│   ├── visualization.py     # 可視化工具
-│   └── compare_models.py    # 模型比較工具
+│   └── evaluate.py          # 評估函數 
 ├── experiments/
 │   ├── standard/            # 標準模型實驗結果
-│   ├── dynamic/             # 動態模型實驗結果
-│   ├── comparison/          # 模型比較結果
-│   └── analysis/            # 分析和可視化結果
+│   └──  dynamic/             # 動態模型實驗結果
 ├── README.md                # 專案說明
-├── main.py                  # 主執行檔
-└── test_dynamic_model.py    # 測試和分析腳本
+└── main.py                  # 主執行檔
 ```
 
 ### 1. 訓練標準模型（基準模型）
